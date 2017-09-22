@@ -7,7 +7,7 @@
 5. [Optional Features Can Be Realized] (README.md#optional-features-can-be-realized)
 
 
-##Features Preview
+##Features-Preview
 
 This is designed to avoid fraud transactions in real life. 
 The processing efficiency for justifying the 4th-degree relationship is approximately 1k per minute. All can be finished in a blink.
