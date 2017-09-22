@@ -1,10 +1,10 @@
 # Table of Contents
 
-1. [Features Preview] (README.md# features-preview)
-2. [Packages] (README.md#packages)
-3. [Details of Implementation] (README.md#details-of-implementation)
-4. [Repo directory structure] (README.md#repo-directory-structure)
-5. [Optional Features Can Be Realized] (README.md#optional-features-can-be-realized)
+1. [Features Preview](README.md# features-preview)
+2. [Packages](README.md#packages)
+3. [Details of Implementation](README.md#details-of-implementation)
+4. [Repo directory structure](README.md#repo-directory-structure)
+5. [Optional Features Can Be Realized](README.md#optional-features-can-be-realized)
 
 
 ## Features Preview
