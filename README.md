@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Features Preview] (README.md#features-preview)
+1. [Features Preview] (README.md#Features-preview)
 2. [Packages] (README.md#packages)
 3. [Details of Implementation] (README.md#details-of-implementation)
 4. [Repo directory structure] (README.md#repo-directory-structure)
