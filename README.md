@@ -24,7 +24,7 @@ The required packages can be imported using codes below:
 
 ## Details of implementation
 
-[Back to Table of Contents] (README.md#table-of-contents)
+[Back to Table of Contents](README.md#table-of-contents)
 
 Carefully thinking through this coding challenge, it's not difficlut to figure out the essense of the problem is to find the shortest path between the users. Yet there's existed classic algorithms like BFS and Dijkstra, a unique algorithm is designed and implemented.
 
@@ -43,7 +43,7 @@ THe code process each line in `new_stream_payment.txt`, which is pre-processed l
 The output is written to a text file in the `paymo_output` directory. 
 
 ## Repo directory structure
-[Back to Table of Contents] (README.md#table-of-contents)
+[Back to Table of Contents](README.md#table-of-contents)
 
 Repo Structure:
 
@@ -74,7 +74,7 @@ Repo Structure:
         		
 
 ## Optional Features Can Be Realized
-[Back to Table of Contents] (README.md#table-of-contents)
+[Back to Table of Contents](README.md#table-of-contents)
 
 Though only the required features are realized, there's still more can be done.
 Adding distance features to class "Graph" and use the amount of former payment to update the distance, we can easily find out how strong the relationship between the two people. Then using a revised algorithm we can lower the probability of fraud.
